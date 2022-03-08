@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingList", "ShoppingList\ShoppingList.csproj", "{50FB24CD-140F-4496-9852-255BA1D87849}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingList", "ShoppingList\ShoppingList.csproj", "{50FB24CD-140F-4496-9852-255BA1D87849}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopingListData", "ShopingListData\ShopingListData.csproj", "{36ECEF98-7DA8-4DB1-AB39-103489B5BBCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecflowProject", "SpecflowProject\SpecflowProject.csproj", "{B043F8E4-09BE-4C37-9CBE-636A2E42FC59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{50FB24CD-140F-4496-9852-255BA1D87849}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50FB24CD-140F-4496-9852-255BA1D87849}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50FB24CD-140F-4496-9852-255BA1D87849}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36ECEF98-7DA8-4DB1-AB39-103489B5BBCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36ECEF98-7DA8-4DB1-AB39-103489B5BBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36ECEF98-7DA8-4DB1-AB39-103489B5BBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36ECEF98-7DA8-4DB1-AB39-103489B5BBCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B043F8E4-09BE-4C37-9CBE-636A2E42FC59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B043F8E4-09BE-4C37-9CBE-636A2E42FC59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B043F8E4-09BE-4C37-9CBE-636A2E42FC59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B043F8E4-09BE-4C37-9CBE-636A2E42FC59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
